@@ -1,0 +1,15 @@
+Changes from v0.2:
+	- Remade the menus entirely
+	- Cleaned up code
+	- New background for title screen and subsequent menus
+	- Moved skin and username settings to Options
+	- Added new and beautiful skin selection
+	- Custom skins are now supported (check out "How To Make a Custom Skin")
+	- Backgrounds now move properly at sizes other than 64x64
+	- Added signs (woo)
+	- And doors (woo)
+	- Reduced latency
+	- Added match data (.mtd) (NOTE: only StartingHealth works for now)
+	- Added winds and water currents
+	- Global server list in join menu
+	  (Public and private servers ^^)

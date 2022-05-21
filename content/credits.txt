@@ -1,0 +1,10 @@
+MD5 Library by kokito
+LOVE-Tracker (org playback) by zorg
+sock.lua by camchenry (makes lua-enet easy to use with LOVE)
+
+Cave Story remix by Saffy
+
+Made possible using LOVE (11.1)
+
+Cave Story Online Edit by 20kdc
+Linux AppImage by 20kdc

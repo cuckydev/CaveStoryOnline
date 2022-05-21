@@ -1,0 +1,5 @@
+{
+	"1":{"type":"sign","x":5,"y":14,"data":"Wind"},
+	"2":{"type":"sign","x":32,"y":18,"data":"Water Current"},
+	"3":{"type":"door","x":18,"y":14,"data":{"gotoX":1,"gotoY":2,"fadeDir":4,"gotoDir":1}},
+}

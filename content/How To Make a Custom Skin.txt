@@ -1,0 +1,11 @@
+A skin is made out of 8 16x16 frames, which you can base off of the base Quote skin in the base directory.
+
+Here are the requirements for a skin to get accepted:
+	- The skin HAS to be 128x16
+	- Each frame has to have 64 opaque pixels
+		(an opaque pixel is a pixel that's 75% visible or more)
+
+You can remove the current custom skin by changing your skin in the options menu.
+
+NOTE: Skin is stored in "%appdata%/CaveStoryOnline", as "CustomSkin.png", you can of course edit this and/or delete it if you please.
+Though, the skin is checked on start up, so don't think about sneaking in an invalid skin. (Also switching during runtime will only cause it to update once the game is restarted.)

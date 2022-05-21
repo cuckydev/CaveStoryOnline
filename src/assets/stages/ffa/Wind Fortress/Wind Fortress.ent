@@ -1,0 +1,1 @@
+{"1":{"y":12,"x":118,"data":"","type":"sign"},"3":{"type":"door","data":{"fadeDir":4,"gotoX":234,"gotoY":5,"gotoDir":0},"x":5,"y":5},"2":{"y":5,"x":234,"type":"door","data":{"gotoX":5,"gotoDir":0,"gotoY":5,"fadeDir":4}}}

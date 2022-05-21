@@ -1,0 +1,14 @@
+Notes for level creation:
+-    .org is a reference to an org in the actual .exe
+
+-    .psp is for player spawn points, and uses a simple format:
+        x1:y1:z1;x2:y2:z2;x3:y3:z3; etc..
+            x is tile X (0 to level width)
+            y is tile Y (0 to level height)
+            z is facing direction (-1 is left, 1 is right)
+
+-    Images should be converted to .png with 0,0,0 (transparency) removed
+
+-    Tilesets (.pxa and .png) are to be named the same as the rest of the level
+
+-    Background image name should be the level's name, plus "BG" at the end
